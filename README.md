@@ -1,4 +1,6 @@
 # Ex.No.10 - Content Creation Using Prompt Patterns
+---
+
 ## Date: 10/11/25
 ## Register Number: 212222060217
 ---
